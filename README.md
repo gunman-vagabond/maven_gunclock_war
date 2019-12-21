@@ -4,7 +4,10 @@ GunClock for maven.
 
 
 ## Às•û–@
-    mvn package
+
+    $ git clone https://github.com/gunman-vagabond/maven_gunclock_war
+    $ cd maven_gunclock_war
+    $ mvn package
 
     ¨ target/gunman.war ‚ª¶¬‚³‚ê‚Ü‚·
 
