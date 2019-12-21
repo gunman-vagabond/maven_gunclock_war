@@ -47,7 +47,7 @@ GunClock for maven.
       </dependencies>
       <build>
      
-     ★Nameを買える。warのファイル名になった。
+     ★Nameを設定。warのファイル名になった。
         <finalName>gunclock</finalName>
      
      ★pluginsを追加。versionは3.1.0にしてみる。web.xml書かないでやってみる。
